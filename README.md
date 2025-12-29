@@ -11,4 +11,10 @@ I'm experience in automating CI/CD pipelines, managing Kubernetes clusters, and 
 - 💬 Ask me about DevOps, AI and Robotics
 - 📫 How to reach me: [Email:](onisamuelopeyemi@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oni-samuel-6b1820267/)
 - ⚡ Fun fact: I love meeting new people and travelling
--->
+  
+## Domain ## 
+---
+1. DevOps
+2. Cloud engineering
+3. AI, robotics and IoT
+4. Software engineering
